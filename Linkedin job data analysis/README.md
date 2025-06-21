@@ -1,37 +1,62 @@
 # 📊 LinkedIn Job Data Analysis
 
-This project explores job postings data scraped from LinkedIn using Python and BeautifulSoup.  
-The data was cleaned using Pandas and visualized in Power BI to find insights on:
-
-- 🔍 Most in-demand job roles
-- 🏢 Top hiring companies
-- 📍 Location-wise job distribution
-- 🛠️ Required skills for each role
+This project explores job postings scraped from LinkedIn using Python and BeautifulSoup.  
+After cleaning the data with Pandas and visualizing with Power BI, we created an interactive dashboard to extract key insights.
 
 ---
 
-## 🧰 Tools & Technologies Used
+## ✅ Dashboard Features
 
-- Python (Pandas, BeautifulSoup)
-- Power BI (Interactive Dashboard)
-- Matplotlib & Seaborn
-- CSV Files
-
----
-
-## 📁 Project Files
-
-| File                | Description                          |
-|---------------------|--------------------------------------|
-| `linkedin_jobs.csv` | Raw job data scraped from LinkedIn   |
-| `data_cleaning.py`  | Script to clean and prepare dataset  |
-| `dashboard.pbix`    | Power BI dashboard                   |
-| `summary.txt`       | Insights and takeaways               |
+- 🎯 Total KPIs: **Jobs**, **Companies**, **Locations**
+- 🗺️ **Map visual** to show city-level distribution of job postings
+- 📌 **Top Job Titles** and **Hiring Companies**
+- 🎛️ **Filters/Slicers**: by Job Title, Company, Location
+- 🔁 **Drill-through** to detailed view (Company → Role breakdown)
+- 📈 Visuals: Bar charts, table, interactive visuals
 
 ---
 
-## 📌 Insights Generated
+## 🔍 Key Insights
 
-- Most jobs were for `Data Analyst`, `Python Developer`, `Business Analyst`
-- Top locations: **Bangalore**, **Delhi NCR**, **Mumbai**
-- Key skills: `SQL`, `Python`, `Power BI`, `Communication`
+- Most jobs posted were for **Data Analyst** roles  
+- **Infosys**, **American Express**, and **Capgemini** are top hiring companies  
+- Hiring mostly focused in **Bengaluru**, **Mumbai**, and **Delhi NCR**  
+- Skills like `SQL`, `Python`, `Power BI` were highly demanded
+
+---
+
+## 🧰 Tools Used
+
+- **Python** – BeautifulSoup, Pandas  
+- **Power BI** – Interactive dashboard creation  
+- **CSV** – Data Source  
+- **Jupyter Notebook** – Cleaning & preprocessing
+
+---
+
+## 📸 Dashboard Previews
+
+### 🔹 Main Overview Page:
+![Main Dashboard](../dasbhoard%201st%20page.JPG)
+
+### 🔹 Drill-through Detail Page:
+![Drill Through](../2nd%20page%20detailed%20view.JPG)
+
+---
+
+## 📂 Files Included
+
+| File Name             | Description                                |
+|------------------------|--------------------------------------------|
+| `linkedin_jobs.csv`    | Raw job data scraped from LinkedIn         |
+| `data_cleaning.py`     | Python script for data cleaning            |
+| `dashboard.pbix`       | Power BI Dashboard                         |
+| `summary.txt`          | Text-based summary of project              |
+
+---
+
+## 💡 Conclusion
+
+This dashboard helps understand job trends, top companies, and skills in demand in India.  
+It can be helpful for career planning, recruitment analysis, or business strategy.
+
