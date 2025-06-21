@@ -37,10 +37,10 @@ After cleaning the data with Pandas and visualizing with Power BI, we created an
 ## 📸 Dashboard Previews
 
 ### 🔹 Main Overview Page:
-![Main Dashboard]([../dasbhoard%201st%20page.JPG](https://github.com/mranshuusingh/Data-Analyst-/blob/360a99f267473dac2360b3b008af3307bf89d3e6/Linkedin%20job%20data%20analysis/images/dasbhoard%201st%20page.JPG))
+![Main Dashboard][(https://github.com/mranshuusingh/Data-Analyst-/blob/360a99f267473dac2360b3b008af3307bf89d3e6/Linkedin%20job%20data%20analysis/images/dasbhoard%201st%20page.JPG)]
 
 ### 🔹 Drill-through Detail Page:
-![Drill Through][(https://github.com/mranshuusingh/Data-Analyst-/blob/b575a9d41669daeb4abf69eff6d7d3f143fea57f/Linkedin%20job%20data%20analysis/images/2nd%20page%20detailed%20view.JPG)
+![Drill Through][(https://github.com/mranshuusingh/Data-Analyst-/blob/b575a9d41669daeb4abf69eff6d7d3f143fea57f/Linkedin%20job%20data%20analysis/images/2nd%20page%20detailed%20view.JPG)]
 
 ---
 
