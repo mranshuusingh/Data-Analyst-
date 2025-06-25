@@ -27,7 +27,7 @@ This repo contains my personal and academic projects where I practiced data wran
 
 ---
 
-### 🔹 [CO2 Emissions Dashboard](./co2-emissions-dashboard)
+### 🔹 [CO2 Emissions Dashboard](https://github.com/mranshuusingh/Data-Analyst-/tree/abe042edc41f7357f78800a4f49db427c65c0ea8/sharktank-data-analysis)
 
 - Visualized global CO2 data using Python Panel  
 - Showcased country-wise emissions and sectors contributing to pollution  
@@ -35,7 +35,7 @@ This repo contains my personal and academic projects where I practiced data wran
 
 ---
 
-### 🔹 [Shark Tank India Investment Analysis](./shark-tank-dashboard)
+### 🔹 [Shark Tank India Investment Analysis](https://github.com/mranshuusingh/Data-Analyst-/tree/abe042edc41f7357f78800a4f49db427c65c0ea8/sharktank-data-analysis)
 
 - Power BI dashboard analyzing investment trends from Shark Tank India  
 - Sector-wise funding, popular sharks, and founder backgrounds  
