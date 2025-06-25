@@ -35,7 +35,7 @@ It showcases deal trends, investor behavior, and gender diversity among entrepre
 
 ## 📸 Dashboard Preview
 
-![Overview]((https://github.com/user-attachments/assets/f018bdae-7c20-496d-b37a-dac3e417a87e))
+![Overview](https://github.com/user-attachments/assets/f018bdae-7c20-496d-b37a-dac3e417a87e)
 
 
 ---
