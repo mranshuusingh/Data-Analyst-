@@ -27,7 +27,7 @@ This repo contains my personal and academic projects where I practiced data wran
 
 ---
 
-### 🔹 [CO2 Emissions Dashboard](https://github.com/mranshuusingh/Data-Analyst-/tree/abe042edc41f7357f78800a4f49db427c65c0ea8/sharktank-data-analysis)
+### 🔹 [CO2 Emissions Dashboard](https://github.com/mranshuusingh/Data-Analyst-/tree/4a2c14c9517d86aaafde565b449932929cd0a3dd/Co2-emission-dashboard-python-panel)
 
 - Visualized global CO2 data using Python Panel  
 - Showcased country-wise emissions and sectors contributing to pollution  
