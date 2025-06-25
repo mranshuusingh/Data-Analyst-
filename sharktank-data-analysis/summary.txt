@@ -1,0 +1,28 @@
+Shark Tank India Dashboard – Summary
+
+Project Overview:
+This project is a Power BI dashboard analyzing investment trends, deal breakdowns, and viewer metrics from Shark Tank India. The dataset includes information across 14 seasons.
+
+Key Metrics:
+- Total Seasons: 14
+- Total Pitchers: 1,274
+- Total Deals: 765
+- Total Investment: $226M
+- Total Viewership: 6,552 Million
+
+Insights:
+1. The most funded industry is Food and Beverage, followed by Fashion, Education, and HealthTech.
+2. Most active investors are Barbara Corcoran, Mark Cuban, and Lori Greiner.
+3. Sharks like Daymond John and Robert Herjavec contributed to sector-specific deals.
+4. Gender distribution among pitchers shows ~60% male, ~30% female, and a small % of team entries.
+5. Season-wise investment trend shows growth in early years (2015–2018), peak around 2019, and slight dip post-2020.
+6. Pie charts depict distribution of investments by both industries and sharks.
+
+Tools Used:
+- Power BI (Slicers, Drillthrough, Pie Charts, Bar Charts)
+- Excel (Data Source)
+- DAX Measures and Filters
+
+Purpose:
+To analyze where the most funding goes, who the most active sharks are, and which sectors are consistently pitched. It also sheds light on gender diversity among entrepreneurs.
+
