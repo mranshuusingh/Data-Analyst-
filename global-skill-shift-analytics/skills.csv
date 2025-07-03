@@ -1,0 +1,40 @@
+Skill,Category
+Python,Data Analytics
+SQL,Data Analytics
+Power BI,Data Analytics
+Excel,Data Analytics
+Tableau,Data Analytics
+Pandas,Data Analytics
+NumPy,Data Analytics
+EDA,Data Analytics
+Business Intelligence,Data Analytics
+HTML,Web Development
+CSS,Web Development
+JavaScript,Web Development
+React,Web Development
+Node.js,Web Development
+Express.js,Web Development
+MongoDB,Web Development
+REST API,Web Development
+Git,Version Control
+AWS,Cloud
+Docker,DevOps
+Kubernetes,DevOps
+CI/CD,DevOps
+Linux,DevOps
+Terraform,DevOps
+Cloud Computing,Cloud
+DevOps,DevOps
+Machine Learning,AI/ML
+Deep Learning,AI/ML
+NLP,AI/ML
+Prompt Engineering,AI/ML
+LangChain,AI/ML
+LLMs,AI/ML
+Cybersecurity,Cybersecurity
+Penetration Testing,Cybersecurity
+Ethical Hacking,Cybersecurity
+Project Management,Management
+Agile,Management
+Figma,Design
+Digital Marketing,Marketing
