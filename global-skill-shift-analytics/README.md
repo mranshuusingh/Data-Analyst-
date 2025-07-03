@@ -28,3 +28,30 @@ It helps learners, job-seekers, and companies to understand what skills are risi
 
 ## 📁 Folder Structure
 
+global-skill-shift-analytics/
+│
+├── data/ → Collected raw & cleaned data
+├── scripts/ → Python scripts for scraping & processing
+├── notebooks/ → Jupyter notebooks for EDA
+├── dashboard/ → Power BI (.pbix) or Streamlit app
+├── screenshots/ → Dashboard previews
+├── skills.csv → Final skill list by category
+├── requirements.txt
+├── README.md
+
+
+---
+
+## 👤 Author
+
+**Anshu Singh**  
+[LinkedIn →](https://www.linkedin.com/in/anshu750/)  
+📌 Data Analyst | Python, Power BI, SQL, Excel
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
