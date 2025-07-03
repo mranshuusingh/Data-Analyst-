@@ -42,7 +42,7 @@ Each project here is designed to solve practical problems, generate insights, an
 - Country-wise & sector-wise breakdown with interactive charts
 - Focused on climate impact and sustainability storytelling
 
-### 🔹 [View Project](https://github.com/mranshuusingh/Data-Analyst-/tree/4a2c14c9517d86aaafde565b449932929cd0a3dd/Co2-emission-dashboard-python-panel)
+ - 🔗 [View Project](https://github.com/mranshuusingh/Data-Analyst-/tree/4a2c14c9517d86aaafde565b449932929cd0a3dd/Co2-emission-dashboard-python-panel)
 
 
 ---
@@ -52,7 +52,7 @@ Each project here is designed to solve practical problems, generate insights, an
 - Tracked funding by sector, shark, and founder backgrounds
 - Used advanced bookmarks and slicers for interactivity
 
-### 🔹 [View Project](https://github.com/mranshuusingh/Data-Analyst-/tree/abe042edc41f7357f78800a4f49db427c65c0ea8/sharktank-data-analysis)
+- 🔗 [View Project](https://github.com/mranshuusingh/Data-Analyst-/tree/abe042edc41f7357f78800a4f49db427c65c0ea8/sharktank-data-analysis)
 
 
 ---
