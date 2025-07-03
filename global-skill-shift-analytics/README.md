@@ -1,43 +1,59 @@
-# Global Skill Shift Analytics – AI-Powered Demand Decoding
+# 🌍 Global Skill Shift Analytics – AI-Powered Demand Decoding
 
-## 🔍 Project Overview
+**Understand what tech skills the world wants — before the world even knows it.**  
+This project decodes real-time global demand for 35+ tech skills using live data from LinkedIn, GitHub, Google Trends, and online learning platforms.
 
-This project tracks and visualizes the global demand of 35+ tech skills using real-time data from LinkedIn, GitHub, Google Trends, and online learning platforms.
-
-It helps learners, job-seekers, and companies to understand what skills are rising, declining, or staying stable across different roles, countries, and industries.
-
----
-
-## 🧠 Key Features
-
-- 🔗 Multi-source data integration: LinkedIn, GitHub, Google Trends, Course Platforms
-- 📊 Power BI dashboard for role, region & trend filtering
-- 🧠 Skill segmentation by domain: Analytics, Web, Cloud, AI, DevOps, etc.
-- ⏳ Time-series tracking via Google Trends API
-- 🎯 Real-world use cases: Upskilling decisions, HR hiring focus, Course creation
+Built for **learners**, **job-seekers**, **HR teams**, and **ed-tech creators**, this analytics engine helps uncover:
+- 🔺 Rising skills worth learning
+- 🔻 Declining trends to avoid
+- ⚖️ Stable core competencies by region, role, and domain
 
 ---
 
-## 🛠️ Tools & Libraries
+## 🔍 Key Features
 
-- Python (Pandas, BeautifulSoup, pytrends, Requests, Seaborn)
-- Power BI / Excel / Streamlit (for dashboard)
-- GitHub, Google Trends, LinkedIn job search (manual/scraping)
+- 🔗 **Multi-source skill demand integration:**  
+  Aggregates live & scraped data from **LinkedIn**, **GitHub**, **Google Trends**, **Coursera**, and more.
+
+- 📊 **Interactive Power BI Dashboard:**  
+  Filters demand by **job role**, **country**, **domain**, and **time period**.
+
+- 🧠 **Skill Categorization by Domain:**  
+  Includes Analytics, Web Dev, AI/ML, Cloud, DevOps, Prompt Engineering, Cybersecurity, and more.
+
+- ⏳ **Time-Series Trend Analysis:**  
+  Uses Google Trends API to track interest shift over the last 12 months.
+
+- 🎯 **Real-World Use Cases:**  
+  - Learners: Prioritize what to learn next  
+  - Recruiters: Know what skills to hire for  
+  - EdTech: Create high-demand course content  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python** – `pandas`, `beautifulsoup4`, `requests`, `pytrends`, `matplotlib`, `seaborn`
+- **Power BI / Excel / Streamlit** – for dashboard visualization
+- **LinkedIn & GitHub** – live job and trend scraping
+- **Google Trends API** – to track real-time skill interest globally
+- **Git & GitHub** – version control and collaboration
 
 ---
 
 ## 📁 Folder Structure
 
+```bash
 global-skill-shift-analytics/
-- │
-- ├── data/ → Collected raw & cleaned data
-- ├── scripts/ → Python scripts for scraping & processing
-- ├── notebooks/ → Jupyter notebooks for EDA
-- ├── dashboard/ → Power BI (.pbix) or Streamlit app
-- ├── screenshots/ → Dashboard previews
-- ├── skills.csv → Final skill list by category
-- ├── requirements.txt
-- ├── README.md
+├── data/           # Raw & cleaned datasets
+├── scripts/        # Python scripts for scraping + processing
+├── notebooks/      # Jupyter Notebooks for EDA
+├── dashboard/      # Power BI file (.pbix) or Streamlit app
+├── screenshots/    # Dashboard preview images
+├── skills.csv      # Skill master list by category
+├── requirements.txt
+└── README.md
+
 
 
 ---
