@@ -52,8 +52,8 @@ global-skill-shift-analytics/
 ├── screenshots/    # Dashboard preview images
 ├── skills.csv      # Skill master list by category
 ├── requirements.txt
-└── README.md ```
-
+└── README.md
+```
 
 
 ---
