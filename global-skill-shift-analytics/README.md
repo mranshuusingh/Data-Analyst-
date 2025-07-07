@@ -1,3 +1,6 @@
+Want to contribute?
+Add new scripts to /scripts, export final CSV to /data, and follow the column schema: Skill, Source, Metric, Value, Date.
+
 # 🌍 Global Skill Shift Analytics – AI-Powered Demand Decoding
 
 **Understand what tech skills the world wants — before the world even knows it.**  
