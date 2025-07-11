@@ -1,0 +1,531 @@
+date,trend,skill
+2024-07-07,91,Python
+2024-07-14,93,Python
+2024-07-21,91,Python
+2024-07-28,85,Python
+2024-08-04,85,Python
+2024-08-11,83,Python
+2024-08-18,89,Python
+2024-08-25,87,Python
+2024-09-01,92,Python
+2024-09-08,96,Python
+2024-09-15,93,Python
+2024-09-22,100,Python
+2024-09-29,87,Python
+2024-10-06,97,Python
+2024-10-13,98,Python
+2024-10-20,99,Python
+2024-10-27,88,Python
+2024-11-03,89,Python
+2024-11-10,98,Python
+2024-11-17,98,Python
+2024-11-24,95,Python
+2024-12-01,99,Python
+2024-12-08,91,Python
+2024-12-15,87,Python
+2024-12-22,68,Python
+2024-12-29,64,Python
+2025-01-05,89,Python
+2025-01-12,87,Python
+2025-01-19,90,Python
+2025-01-26,96,Python
+2025-02-02,93,Python
+2025-02-09,91,Python
+2025-02-16,93,Python
+2025-02-23,93,Python
+2025-03-02,93,Python
+2025-03-09,88,Python
+2025-03-16,95,Python
+2025-03-23,88,Python
+2025-03-30,86,Python
+2025-04-06,84,Python
+2025-04-13,81,Python
+2025-04-20,80,Python
+2025-04-27,76,Python
+2025-05-04,75,Python
+2025-05-11,76,Python
+2025-05-18,78,Python
+2025-05-25,73,Python
+2025-06-01,77,Python
+2025-06-08,83,Python
+2025-06-15,83,Python
+2025-06-22,80,Python
+2025-06-29,72,Python
+2025-07-06,65,Python
+2024-07-07,94,SQL
+2024-07-14,97,SQL
+2024-07-21,100,SQL
+2024-07-28,95,SQL
+2024-08-04,94,SQL
+2024-08-11,83,SQL
+2024-08-18,95,SQL
+2024-08-25,90,SQL
+2024-09-01,90,SQL
+2024-09-08,97,SQL
+2024-09-15,92,SQL
+2024-09-22,93,SQL
+2024-09-29,93,SQL
+2024-10-06,91,SQL
+2024-10-13,87,SQL
+2024-10-20,95,SQL
+2024-10-27,85,SQL
+2024-11-03,87,SQL
+2024-11-10,93,SQL
+2024-11-17,95,SQL
+2024-11-24,87,SQL
+2024-12-01,92,SQL
+2024-12-08,91,SQL
+2024-12-15,85,SQL
+2024-12-22,55,SQL
+2024-12-29,54,SQL
+2025-01-05,81,SQL
+2025-01-12,83,SQL
+2025-01-19,91,SQL
+2025-01-26,90,SQL
+2025-02-02,94,SQL
+2025-02-09,87,SQL
+2025-02-16,89,SQL
+2025-02-23,91,SQL
+2025-03-02,89,SQL
+2025-03-09,87,SQL
+2025-03-16,90,SQL
+2025-03-23,88,SQL
+2025-03-30,81,SQL
+2025-04-06,83,SQL
+2025-04-13,77,SQL
+2025-04-20,77,SQL
+2025-04-27,69,SQL
+2025-05-04,77,SQL
+2025-05-11,83,SQL
+2025-05-18,80,SQL
+2025-05-25,72,SQL
+2025-06-01,77,SQL
+2025-06-08,78,SQL
+2025-06-15,82,SQL
+2025-06-22,73,SQL
+2025-06-29,68,SQL
+2025-07-06,52,SQL
+2024-07-07,94,Power BI
+2024-07-14,97,Power BI
+2024-07-21,100,Power BI
+2024-07-28,90,Power BI
+2024-08-04,90,Power BI
+2024-08-11,88,Power BI
+2024-08-18,90,Power BI
+2024-08-25,91,Power BI
+2024-09-01,91,Power BI
+2024-09-08,86,Power BI
+2024-09-15,92,Power BI
+2024-09-22,91,Power BI
+2024-09-29,92,Power BI
+2024-10-06,86,Power BI
+2024-10-13,88,Power BI
+2024-10-20,93,Power BI
+2024-10-27,80,Power BI
+2024-11-03,85,Power BI
+2024-11-10,89,Power BI
+2024-11-17,91,Power BI
+2024-11-24,84,Power BI
+2024-12-01,82,Power BI
+2024-12-08,85,Power BI
+2024-12-15,80,Power BI
+2024-12-22,49,Power BI
+2024-12-29,50,Power BI
+2025-01-05,78,Power BI
+2025-01-12,89,Power BI
+2025-01-19,91,Power BI
+2025-01-26,95,Power BI
+2025-02-02,95,Power BI
+2025-02-09,94,Power BI
+2025-02-16,94,Power BI
+2025-02-23,94,Power BI
+2025-03-02,86,Power BI
+2025-03-09,93,Power BI
+2025-03-16,95,Power BI
+2025-03-23,92,Power BI
+2025-03-30,90,Power BI
+2025-04-06,91,Power BI
+2025-04-13,78,Power BI
+2025-04-20,83,Power BI
+2025-04-27,78,Power BI
+2025-05-04,81,Power BI
+2025-05-11,83,Power BI
+2025-05-18,89,Power BI
+2025-05-25,81,Power BI
+2025-06-01,84,Power BI
+2025-06-08,88,Power BI
+2025-06-15,88,Power BI
+2025-06-22,85,Power BI
+2025-06-29,79,Power BI
+2025-07-06,56,Power BI
+2024-07-07,94,AWS
+2024-07-14,95,AWS
+2024-07-21,96,AWS
+2024-07-28,95,AWS
+2024-08-04,94,AWS
+2024-08-11,84,AWS
+2024-08-18,93,AWS
+2024-08-25,89,AWS
+2024-09-01,88,AWS
+2024-09-08,93,AWS
+2024-09-15,88,AWS
+2024-09-22,91,AWS
+2024-09-29,86,AWS
+2024-10-06,89,AWS
+2024-10-13,86,AWS
+2024-10-20,89,AWS
+2024-10-27,82,AWS
+2024-11-03,89,AWS
+2024-11-10,85,AWS
+2024-11-17,91,AWS
+2024-11-24,85,AWS
+2024-12-01,95,AWS
+2024-12-08,94,AWS
+2024-12-15,83,AWS
+2024-12-22,66,AWS
+2024-12-29,58,AWS
+2025-01-05,88,AWS
+2025-01-12,85,AWS
+2025-01-19,93,AWS
+2025-01-26,94,AWS
+2025-02-02,97,AWS
+2025-02-09,90,AWS
+2025-02-16,98,AWS
+2025-02-23,92,AWS
+2025-03-02,95,AWS
+2025-03-09,86,AWS
+2025-03-16,90,AWS
+2025-03-23,90,AWS
+2025-03-30,89,AWS
+2025-04-06,87,AWS
+2025-04-13,81,AWS
+2025-04-20,85,AWS
+2025-04-27,80,AWS
+2025-05-04,80,AWS
+2025-05-11,87,AWS
+2025-05-18,91,AWS
+2025-05-25,86,AWS
+2025-06-01,97,AWS
+2025-06-08,98,AWS
+2025-06-15,100,AWS
+2025-06-22,87,AWS
+2025-06-29,83,AWS
+2025-07-06,66,AWS
+2024-07-07,77,Machine Learning
+2024-07-14,75,Machine Learning
+2024-07-21,78,Machine Learning
+2024-07-28,74,Machine Learning
+2024-08-04,74,Machine Learning
+2024-08-11,75,Machine Learning
+2024-08-18,75,Machine Learning
+2024-08-25,75,Machine Learning
+2024-09-01,75,Machine Learning
+2024-09-08,80,Machine Learning
+2024-09-15,79,Machine Learning
+2024-09-22,85,Machine Learning
+2024-09-29,79,Machine Learning
+2024-10-06,79,Machine Learning
+2024-10-13,80,Machine Learning
+2024-10-20,83,Machine Learning
+2024-10-27,73,Machine Learning
+2024-11-03,83,Machine Learning
+2024-11-10,86,Machine Learning
+2024-11-17,87,Machine Learning
+2024-11-24,79,Machine Learning
+2024-12-01,82,Machine Learning
+2024-12-08,84,Machine Learning
+2024-12-15,80,Machine Learning
+2024-12-22,64,Machine Learning
+2024-12-29,65,Machine Learning
+2025-01-05,83,Machine Learning
+2025-01-12,75,Machine Learning
+2025-01-19,84,Machine Learning
+2025-01-26,83,Machine Learning
+2025-02-02,87,Machine Learning
+2025-02-09,85,Machine Learning
+2025-02-16,86,Machine Learning
+2025-02-23,85,Machine Learning
+2025-03-02,88,Machine Learning
+2025-03-09,77,Machine Learning
+2025-03-16,85,Machine Learning
+2025-03-23,82,Machine Learning
+2025-03-30,78,Machine Learning
+2025-04-06,80,Machine Learning
+2025-04-13,75,Machine Learning
+2025-04-20,79,Machine Learning
+2025-04-27,80,Machine Learning
+2025-05-04,78,Machine Learning
+2025-05-11,82,Machine Learning
+2025-05-18,82,Machine Learning
+2025-05-25,78,Machine Learning
+2025-06-01,86,Machine Learning
+2025-06-08,100,Machine Learning
+2025-06-15,96,Machine Learning
+2025-06-22,83,Machine Learning
+2025-06-29,78,Machine Learning
+2025-07-06,68,Machine Learning
+2024-07-07,92,React
+2024-07-14,99,React
+2024-07-21,98,React
+2024-07-28,94,React
+2024-08-04,91,React
+2024-08-11,90,React
+2024-08-18,90,React
+2024-08-25,94,React
+2024-09-01,93,React
+2024-09-08,90,React
+2024-09-15,93,React
+2024-09-22,88,React
+2024-09-29,89,React
+2024-10-06,91,React
+2024-10-13,90,React
+2024-10-20,92,React
+2024-10-27,87,React
+2024-11-03,100,React
+2024-11-10,90,React
+2024-11-17,90,React
+2024-11-24,87,React
+2024-12-01,89,React
+2024-12-08,92,React
+2024-12-15,90,React
+2024-12-22,71,React
+2024-12-29,70,React
+2025-01-05,87,React
+2025-01-12,91,React
+2025-01-19,92,React
+2025-01-26,90,React
+2025-02-02,93,React
+2025-02-09,94,React
+2025-02-16,96,React
+2025-02-23,92,React
+2025-03-02,92,React
+2025-03-09,84,React
+2025-03-16,89,React
+2025-03-23,85,React
+2025-03-30,82,React
+2025-04-06,82,React
+2025-04-13,84,React
+2025-04-20,77,React
+2025-04-27,77,React
+2025-05-04,76,React
+2025-05-11,78,React
+2025-05-18,77,React
+2025-05-25,77,React
+2025-06-01,75,React
+2025-06-08,74,React
+2025-06-15,77,React
+2025-06-22,77,React
+2025-06-29,74,React
+2025-07-06,61,React
+2024-07-07,48,Cybersecurity
+2024-07-14,58,Cybersecurity
+2024-07-21,55,Cybersecurity
+2024-07-28,49,Cybersecurity
+2024-08-04,50,Cybersecurity
+2024-08-11,51,Cybersecurity
+2024-08-18,54,Cybersecurity
+2024-08-25,51,Cybersecurity
+2024-09-01,52,Cybersecurity
+2024-09-08,52,Cybersecurity
+2024-09-15,53,Cybersecurity
+2024-09-22,56,Cybersecurity
+2024-09-29,53,Cybersecurity
+2024-10-06,54,Cybersecurity
+2024-10-13,52,Cybersecurity
+2024-10-20,56,Cybersecurity
+2024-10-27,53,Cybersecurity
+2024-11-03,49,Cybersecurity
+2024-11-10,54,Cybersecurity
+2024-11-17,57,Cybersecurity
+2024-11-24,50,Cybersecurity
+2024-12-01,54,Cybersecurity
+2024-12-08,53,Cybersecurity
+2024-12-15,48,Cybersecurity
+2024-12-22,37,Cybersecurity
+2024-12-29,41,Cybersecurity
+2025-01-05,57,Cybersecurity
+2025-01-12,59,Cybersecurity
+2025-01-19,61,Cybersecurity
+2025-01-26,59,Cybersecurity
+2025-02-02,57,Cybersecurity
+2025-02-09,60,Cybersecurity
+2025-02-16,63,Cybersecurity
+2025-02-23,62,Cybersecurity
+2025-03-02,64,Cybersecurity
+2025-03-09,63,Cybersecurity
+2025-03-16,67,Cybersecurity
+2025-03-23,62,Cybersecurity
+2025-03-30,66,Cybersecurity
+2025-04-06,64,Cybersecurity
+2025-04-13,64,Cybersecurity
+2025-04-20,68,Cybersecurity
+2025-04-27,65,Cybersecurity
+2025-05-04,66,Cybersecurity
+2025-05-11,69,Cybersecurity
+2025-05-18,64,Cybersecurity
+2025-05-25,61,Cybersecurity
+2025-06-01,79,Cybersecurity
+2025-06-08,100,Cybersecurity
+2025-06-15,96,Cybersecurity
+2025-06-22,84,Cybersecurity
+2025-06-29,64,Cybersecurity
+2025-07-06,63,Cybersecurity
+2024-07-07,79,Data Science
+2024-07-14,76,Data Science
+2024-07-21,82,Data Science
+2024-07-28,77,Data Science
+2024-08-04,76,Data Science
+2024-08-11,77,Data Science
+2024-08-18,86,Data Science
+2024-08-25,84,Data Science
+2024-09-01,83,Data Science
+2024-09-08,88,Data Science
+2024-09-15,82,Data Science
+2024-09-22,83,Data Science
+2024-09-29,79,Data Science
+2024-10-06,74,Data Science
+2024-10-13,74,Data Science
+2024-10-20,77,Data Science
+2024-10-27,71,Data Science
+2024-11-03,76,Data Science
+2024-11-10,78,Data Science
+2024-11-17,85,Data Science
+2024-11-24,69,Data Science
+2024-12-01,74,Data Science
+2024-12-08,75,Data Science
+2024-12-15,73,Data Science
+2024-12-22,60,Data Science
+2024-12-29,62,Data Science
+2025-01-05,77,Data Science
+2025-01-12,82,Data Science
+2025-01-19,85,Data Science
+2025-01-26,81,Data Science
+2025-02-02,83,Data Science
+2025-02-09,79,Data Science
+2025-02-16,82,Data Science
+2025-02-23,77,Data Science
+2025-03-02,78,Data Science
+2025-03-09,74,Data Science
+2025-03-16,84,Data Science
+2025-03-23,82,Data Science
+2025-03-30,83,Data Science
+2025-04-06,79,Data Science
+2025-04-13,78,Data Science
+2025-04-20,80,Data Science
+2025-04-27,82,Data Science
+2025-05-04,87,Data Science
+2025-05-11,91,Data Science
+2025-05-18,87,Data Science
+2025-05-25,84,Data Science
+2025-06-01,83,Data Science
+2025-06-08,96,Data Science
+2025-06-15,100,Data Science
+2025-06-22,86,Data Science
+2025-06-29,77,Data Science
+2025-07-06,76,Data Science
+2024-07-07,98,DevOps
+2024-07-14,98,DevOps
+2024-07-21,100,DevOps
+2024-07-28,86,DevOps
+2024-08-04,90,DevOps
+2024-08-11,86,DevOps
+2024-08-18,89,DevOps
+2024-08-25,93,DevOps
+2024-09-01,89,DevOps
+2024-09-08,89,DevOps
+2024-09-15,92,DevOps
+2024-09-22,91,DevOps
+2024-09-29,88,DevOps
+2024-10-06,87,DevOps
+2024-10-13,90,DevOps
+2024-10-20,91,DevOps
+2024-10-27,79,DevOps
+2024-11-03,85,DevOps
+2024-11-10,86,DevOps
+2024-11-17,90,DevOps
+2024-11-24,88,DevOps
+2024-12-01,86,DevOps
+2024-12-08,87,DevOps
+2024-12-15,83,DevOps
+2024-12-22,58,DevOps
+2024-12-29,56,DevOps
+2025-01-05,87,DevOps
+2025-01-12,86,DevOps
+2025-01-19,94,DevOps
+2025-01-26,88,DevOps
+2025-02-02,92,DevOps
+2025-02-09,90,DevOps
+2025-02-16,95,DevOps
+2025-02-23,91,DevOps
+2025-03-02,92,DevOps
+2025-03-09,89,DevOps
+2025-03-16,91,DevOps
+2025-03-23,89,DevOps
+2025-03-30,85,DevOps
+2025-04-06,84,DevOps
+2025-04-13,82,DevOps
+2025-04-20,88,DevOps
+2025-04-27,81,DevOps
+2025-05-04,85,DevOps
+2025-05-11,88,DevOps
+2025-05-18,92,DevOps
+2025-05-25,81,DevOps
+2025-06-01,93,DevOps
+2025-06-08,96,DevOps
+2025-06-15,99,DevOps
+2025-06-22,90,DevOps
+2025-06-29,82,DevOps
+2025-07-06,70,DevOps
+2024-07-07,72,Cloud Computing
+2024-07-14,74,Cloud Computing
+2024-07-21,80,Cloud Computing
+2024-07-28,75,Cloud Computing
+2024-08-04,82,Cloud Computing
+2024-08-11,71,Cloud Computing
+2024-08-18,77,Cloud Computing
+2024-08-25,77,Cloud Computing
+2024-09-01,79,Cloud Computing
+2024-09-08,80,Cloud Computing
+2024-09-15,84,Cloud Computing
+2024-09-22,90,Cloud Computing
+2024-09-29,75,Cloud Computing
+2024-10-06,80,Cloud Computing
+2024-10-13,85,Cloud Computing
+2024-10-20,87,Cloud Computing
+2024-10-27,73,Cloud Computing
+2024-11-03,75,Cloud Computing
+2024-11-10,91,Cloud Computing
+2024-11-17,96,Cloud Computing
+2024-11-24,86,Cloud Computing
+2024-12-01,95,Cloud Computing
+2024-12-08,87,Cloud Computing
+2024-12-15,72,Cloud Computing
+2024-12-22,58,Cloud Computing
+2024-12-29,62,Cloud Computing
+2025-01-05,87,Cloud Computing
+2025-01-12,68,Cloud Computing
+2025-01-19,90,Cloud Computing
+2025-01-26,77,Cloud Computing
+2025-02-02,78,Cloud Computing
+2025-02-09,76,Cloud Computing
+2025-02-16,77,Cloud Computing
+2025-02-23,79,Cloud Computing
+2025-03-02,86,Cloud Computing
+2025-03-09,76,Cloud Computing
+2025-03-16,80,Cloud Computing
+2025-03-23,76,Cloud Computing
+2025-03-30,70,Cloud Computing
+2025-04-06,80,Cloud Computing
+2025-04-13,68,Cloud Computing
+2025-04-20,96,Cloud Computing
+2025-04-27,86,Cloud Computing
+2025-05-04,91,Cloud Computing
+2025-05-11,85,Cloud Computing
+2025-05-18,75,Cloud Computing
+2025-05-25,69,Cloud Computing
+2025-06-01,78,Cloud Computing
+2025-06-08,93,Cloud Computing
+2025-06-15,100,Cloud Computing
+2025-06-22,82,Cloud Computing
+2025-06-29,75,Cloud Computing
+2025-07-06,70,Cloud Computing
