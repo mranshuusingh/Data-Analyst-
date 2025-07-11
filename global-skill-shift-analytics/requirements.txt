@@ -4,6 +4,7 @@ matplotlib
 seaborn
 beautifulsoup4
 requests
+selenium
 pytrends
 openpyxl
 lxml
