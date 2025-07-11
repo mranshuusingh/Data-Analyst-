@@ -1,0 +1,15 @@
+# Ignore ChromeDriver binary
+drivers/chromedriver.exe
+
+# __pycache__ folders
+__pycache__/
+
+# Environment files
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code folder
+.vscode/
